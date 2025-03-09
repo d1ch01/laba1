@@ -18,6 +18,6 @@
 2. Перейдите в папку проекта:
    cd laba1
 3. Скомпилируйте программу:
-   g++ main.cpp rectangle.cpp triangle.cpp -o geometry
+   g++ rectangle.cpp -o rectangle или g++ triangle.cpp -o triangle
 4. Запустите программу:
-   ./geometry
+   ./rectangle или ./triangle
